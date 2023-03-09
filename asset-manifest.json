@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NetflixReactCardApp/static/css/main.4aed640e.css",
+    "main.js": "/NetflixReactCardApp/static/js/main.f4456c05.js",
+    "index.html": "/NetflixReactCardApp/index.html",
+    "main.4aed640e.css.map": "/NetflixReactCardApp/static/css/main.4aed640e.css.map",
+    "main.f4456c05.js.map": "/NetflixReactCardApp/static/js/main.f4456c05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aed640e.css",
+    "static/js/main.f4456c05.js"
+  ]
+}
